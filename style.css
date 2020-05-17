@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(20, 20, 20);
+    background-image: url(images/background.png);
+    color: white;
+}
+
+.small-3 {
+    width:          55% !important;
+}
+
+.navigation {
+    margin-top:     30px;
+    text-align:     center;
+    font-size:      22px;
+    font-weight:    600;
+    color:          white;
+}
+
+.headerTxt {
+    font-size:      70px;
+    font-weight:    700;
+    text-align:     center;
+    margin-top:     100px;
+    color:          white;
+}
+
+.pokeContainer {
+    height:         250px;
+    margin-top:     100px;
+    color:          white;
+}
+
+.box {
+    width: 45%;
+    border-style:   solid;
+    border-width:   2px;
+    border-radius:  50px;
+}
+
+.cap {
+    text-align:     center;
+    text-transform: capitalize;
+}
+
+.atk {
+    border-style:   solid;
+    border-width:   1px;
+    border-radius:  50px;
+}
+
+.turn {
+  font-size:        30px;
+  color:            white;
+  max-width:        150px;
+  border-style:     solid;
+  border-width:     1px;
+  border-radius:    50px;
+}
+
+.beuk {
+    color:          red;
+    text-transform: uppercase;
+}
+
+.result {
+    margin: 50px auto;
+    font-size: 50px;
+    color: white;
+    max-width: 500px;
+    text-align: center;
+}
+
+.result a{
+    color: white;
+}
+
+.winner {
+    font-size: 50px;
+    color: white;
+}
+
+.logs {
+    font-size: 25px;
+    margin-top: 100px;
+    text-align: center;
+}
