@@ -23,7 +23,7 @@
 
                     <h4 class="small-3 columns large-centered cap">Attack <?php echo $atk.': '. $value;?></h4>
 
-                <?php  } //! End foreach loop $atk \\
+                <?php  } // End foreach loop $atk \\
                 ?>
 
                 </div>
@@ -35,7 +35,7 @@
             </div>
 
           <?php
-          } //! End foreach loop $_SESSION
+          } // End foreach loop $_SESSION \\
         ?>
 
     </div>
